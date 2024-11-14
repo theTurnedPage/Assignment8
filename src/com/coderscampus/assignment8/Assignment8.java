@@ -24,7 +24,7 @@ public class Assignment8 {
         } catch (IOException e) {
             e.printStackTrace();
         }
-    }//
+    }
 
     /**
      * This method will return the numbers that you'll need to process from the list
